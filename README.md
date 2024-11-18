@@ -53,8 +53,8 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/Q-Niranjan/startupSync.git
 cd startupSync
-
-**Installation**
+```
+### Installation
 
 Install the project dependencies using npm:
 
@@ -85,4 +85,4 @@ creating a new project on the [Sanity website](https://www.sanity.io/).
 ```bash
 npm run dev
 ```
-Thank you for exploring StartupSync! We hope it helps entrepreneurs showcase their ideas and grow their startups. Feel free to reach out with questions or suggestions. - Happy coding!
+***Thank you for exploring StartupSync! We hope it helps entrepreneurs showcase their ideas and grow their startups. Feel free to reach out with questions or suggestions. - Happy coding!***
